@@ -1,8 +1,10 @@
+# Игра запускается, но не работает нормально.
 from asciimatics.renderers import FigletText, Fire
 from asciimatics.renderers import SpeechBubble
 from asciimatics.scene import Scene
 from asciimatics.screen import Screen
 from asciimatics.effects import Print
+# что это за фигня? Найти причину
 from asciimatics.exceptions import ResizeScreenError
 from pyfiglet import Figlet
 import sys
